@@ -12,8 +12,12 @@ Navbar
 
 
 Project By : 
-            NAME : Chintamani Bhat                                                      NAME : Chandrahas L G 
-            SRN : PES2UG19CS099                                                         SRN : PES2UG19CS096
-            SECTION : B                                                                 SECTION : B
+            NAME : Chintamani Bhat                                                      
+            SRN : PES2UG19CS099                                                         
+            SECTION : B                                                                 
             
+            
+            NAME : Chandrahas L G
+            SRN : PES2UG19CS096
+            SECTION : B
             
