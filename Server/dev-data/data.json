@@ -1,0 +1,43 @@
+[
+  {
+    "id": 0,
+    "productName": "Quality Problems",
+    "i": "📱",
+    "n": "Contact-Details",
+    "c": "030-256849",
+    "no": "9669584875",
+    "m":"qualityproblems@shoemart.org",
+    "description": " Thank You For Visiting Us !! @ Team Shoe Mart"
+  },
+  {
+    "id": 1,
+    "productName": "Transaction Queries",
+    "i": "📱",
+    "n": "Contact-Details",
+    "c": "030-256848",
+    "no": "9669584876",
+    "m":"tranctionqueries@shoemart.org",
+    "description": "Thank You For Visiting Us !! @ Team Shoe Mart"
+  },
+  {
+    "id": 2,
+    "productName": "Delivery Issues ",
+    "i": "📱",
+    "n": "Contact-Details",
+    "c": "030-256847",
+    "no": "9669584877",
+    "m":"deliveryissues@shoemart.org",
+    "description": "Thank You For Visiting Us !! @ Team Shoe Mart"
+  },
+  {
+    "id": 3,
+    "productName": "Other Queries",
+    "i": "📱",
+    "n": "Contact-Details",
+    "c": "030-256846",
+    "no": "9669584878",
+    "m":"team_support@shoemart.org",
+    "description": "Thank You For Visiting Us !! @ Team Shoe Mart"
+  }
+  
+]
