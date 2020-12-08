@@ -8,3 +8,12 @@ Products Page : To showcase the actual designs of the products.
 Contact Us Page: In this page we have the details regarding the query of the products.
 Navbar
 
+
+
+
+Project By : 
+            NAME : Chintamani Bhat                                                      NAME : Chandrahas L G 
+            SRN : PES2UG19CS099                                                         SRN : PES2UG19CS096
+            SECTION : B                                                                 SECTION : B
+            
+            
